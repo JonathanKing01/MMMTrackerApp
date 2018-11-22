@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Search-bar {
+  width: 12%;
+  transform: translate(0%, 0%);
+  font-size: large;
+  position: relative;
+}
+
+.Search-box {
+  position: absolute;
+  padding: 10px; 
+  float: left;
+  font-size: large;
+}
+
+.Search-button {
+  position: absolute;
+  float: left;
+  font-size: large; 
+  border-radius: 5px;
+  padding: 10px; 
+  border: 2px solid black;
+  width: 33%
+}
+
+.Add-button {
+  font-size: large; 
+  border-radius: 5px;
+  padding: 10px; 
+  border: 2px solid black;
+  transform: translate(1250%, -760%);
+  width: 8%
+}
+
+.Update-button {
+  font-size: large; 
+  border-radius: 5px;
+  padding: 10px; 
+  border: 2px solid black;
+  transform: translate(1250%, -750%);
+  width: 8%
+}
+
+.Delete-button {
+  font-size: large; 
+  border-radius: 5px;
+  padding: 10px; 
+  border: 2px solid black;
+  transform: translate(1250%, -740%);
+  width: 8%
+}
+
+.Table-row {
+  border-radius: 5px;
+  padding: 10px; 
+  border: 2px solid black;
+  transform: translate(0%, 110%);
+}
+
+.table-div{
+  float: center
+}
+
+.records-table-div{
+  float: right;
+  transform: translate(-50px, -400px);
+}
+
+.report-Table-row {
+  padding: 10px; 
+  border: 2px solid rgb(99, 99, 99);
+  transform: translate(0%, 110%);
+}
+
+.Report{
+  transform: translate(-35%, 10%);
+}
+
+.chart{
+  transform: translate(100%, 0%);
+}
+
+#item-price-textbox{
+  transform: translate(450%, -770%);
+}
+
+#item-date-textbox{
+  transform: translate(450%, -650%);
+}
+
+.FB-login{
+  float:right;
+  transform: translate(250%, -1250%);
+}
+
+.btn{
+  transform: translate(140%, 68%);
+}
